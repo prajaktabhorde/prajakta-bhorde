@@ -1,12 +1,12 @@
 # 🚀 PrajaktaBhorde
 
-> *"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."*  
-> — **Sir M. Visvesvaraya**
+> *"Engineering is the art of directing the great sources of power in nature for the use and convenience of Women."*  
+> — **Prajakta Bhorde**
 
 ---
 
 ## 👋 About
-**VisvesvarayaCode** is a Full-Stack Java development profile focused on enterprise-grade backend systems, database-driven apps, and dynamic frontends. Inspired by the engineering excellence of Sir M. Visvesvaraya, this repo showcases clean architecture, high-quality code, and production-minded solutions.
+**Prajakta Bhorde** is a Full-Stack Java development profile focused on enterprise-grade backend systems, database-driven apps, and dynamic frontends. Inspired by the engineering excellence of Sir M. Visvesvaraya, this repo showcases clean architecture, high-quality code, and production-minded solutions.
 
 ---
 
@@ -51,8 +51,8 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prajaktabhorde@05.com&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktabhorde@05gmail.com&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prajaktabhorde&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktabhorde&layout=compact&theme=tokyonight)
 
 ---
 
